@@ -11,7 +11,4 @@
 </p>
 
 
-[![karavang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karavang&count_private=true&show_icons=true&theme=buefy)](https://github.com/karavang)
-[![karavang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karavang&layout=compact&theme=buefy)](https://github.com/karavang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karavang&layout=compact&theme=buefy)](https://github.com/karavang)
--->
+
