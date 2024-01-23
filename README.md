@@ -8,7 +8,7 @@ Hello, I'm Karavang, also known as Yevhenii Shestak. I'm a freelance full-stack 
 
 * 🖥️  See my portfolio at [My site](http://karavang.vercel.app)
 * ✉️  You can contact me at [k4r4v4ng@gmail.com](mailto:k4r4v4ng@gmail.com)
-* 🧠  I'm learning Rust<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+* 🧠  I'm learning Rust<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="16" height="16" alt="Rust" />
 * 🤝  I'm open to collaborating on anyone interesting project
 
 <a href="https://www.github.com/Karavang" target="_blank" rel="noreferrer"><img
